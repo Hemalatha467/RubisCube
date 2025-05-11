@@ -57,6 +57,9 @@ To develop an AI agent that:
 ├── Agent.py # Q-learning agent
 ├── tests.py # Unit tests for cube logic
 
+**## To run**
+python agent.py
+
 ## 🧠 Authors
 - Hemalatha Ganipisetti  
 - Addi Poojeetha Reddy
